@@ -164,16 +164,7 @@ To keep the application fast and browser-friendly, a few simplifications were ma
 
 ---
 
-## Future Improvements
 
-Potential enhancements include:
-
-* Multiple solar farm layouts
-* Historical weather integration
-* Geographic map selection
-* Annual energy production reports
-* Exportable simulation results
-* Battery and inverter loss modelling
 
 ---
 
